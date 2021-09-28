@@ -1,0 +1,42 @@
+.top-container {
+    background-image: url('img/love-top.png');
+    background-repeat: no-repeat;
+    display: block;
+    width: 1400px;
+    height: 800px;
+}
+
+.top-content {
+    text-align: center;
+    padding-top: 10%;
+}
+
+.love-icon {
+    width: 400px;
+    height: 400px;
+}
+
+h1 {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 2.5rem;
+    text-align: center;
+}
+
+/* Details Section  */
+
+#details {
+    margin: 1rem;
+}
+
+/* Quotes section */
+
+#quotes {
+    background: url(img/quotes-background.png);
+    background-size:contain;
+}
+
+li {
+    margin: 10%;
+    font-family: 'Ubuntu';
+    font-weight: bold;
+}
